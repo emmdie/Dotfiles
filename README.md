@@ -3,7 +3,7 @@
 ![Screenshot of Desktop](./screenshots/wallpaperScreenshot.png)
 ![image](./screenshots/screenshot1.png)
 ## Description
-This repo conatins various configuration files for my laptop using the Hyprland compositor with a focus on providing good experience on my Laptop featuring pen input. 
+This repo contains various configuration files for my laptop using the Hyprland compositor with a focus on providing good experience on my 2-in-1 Laptop. 
 ## Configs
 It includes my configs for:
 ### Hyprland
