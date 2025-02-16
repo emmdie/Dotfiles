@@ -7,12 +7,12 @@ This repo contains various configuration files for my laptop using the Hyprland 
 ## Configs
 It includes my configs for:
 ### Hyprland
-Featuring:
 - Screenshot functionality using slurp and grim on the PRINT key. 
 - Laptop funtion keys for volume, brightness, mute, etc.
 - Theming 
 ### Hyprlock
-
+- Slight theming
 ### Waybar
-
+- Laptop widgets such as temperature, bluetooth, battery...
+## Theming
 Everything is styled using the amazing [Rosé Pine theme](https://rosepinetheme.com/)
