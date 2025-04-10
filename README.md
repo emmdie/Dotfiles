@@ -5,7 +5,7 @@
 ## Description
 This repo contains various configuration files for my laptop using the Hyprland compositor with a focus on providing good experience on my 2-in-1 Laptop.
 ## Requirements
-Hyprland, Hyprlock, Hypridle, Waybar
+Hyprland, Hyprlock, Hypridle, Waybar, [Rose Pine Dawn Cursors]()https://rosepinetheme.com/themes/cursor/
 ## Configs
 It includes my configs for:
 ### Hyprland
