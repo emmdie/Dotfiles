@@ -12,7 +12,7 @@ This repo contains various configuration files for my laptop using the Hyprland 
 ## Colours
 [Rose Pine Dawn](https://rosepinetheme.com/) for everything
 ## Cursor
-[Rose Pine Dawn Cursors(https://rosepinetheme.com/themes/cursor/)
+[Rose Pine Dawn Cursors](https://rosepinetheme.com/themes/cursor/)
 ## Compositor
 Hyprland
 - Screenshot functionality using slurp and grim on the PRINT key. 
