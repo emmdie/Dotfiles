@@ -6,7 +6,7 @@ This repo contains various configuration files for my laptop using the Hyprland 
 ![Screenshot of Terminal and Github](./screenshots/ScreenshotGit.png)
 ![Screenshot of Godot and neofetch](./screenshots/ScreenshotGodot.png)
 ![Screenshot of Krita and Neovim](./screenshots/ScreenshotKrita.png)
-![Screenshot of Windows tiled](./screenshots/ScreenshotTIling.png)
+![Screenshot of Windows tiled](./screenshots/screenshotTiling.png)
 
 # Setup
 ## Colours
