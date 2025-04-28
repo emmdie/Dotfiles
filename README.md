@@ -30,3 +30,6 @@ Hyprland
 Kitty
 ## Shell
 Fish
+## Nvim
+ -[lazy.nvim](https://github.com/folke/lazy.nvim)
+ - [Rose Pine Dawn](https://github.com/rose-pine/neovim)
