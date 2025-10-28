@@ -1,0 +1,4 @@
+theme = "rose_pine_dawn"
+[editor]
+color-modes = true
+popup-border = all
